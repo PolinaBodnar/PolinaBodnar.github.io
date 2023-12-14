@@ -1,0 +1,121 @@
+
+@import url("https://fonts.google.com/specimen/Unbounded/css2?family=Unbounded:wght@400&display=swap");
+
+
+:root {
+  --text-color: #f0f0f0;
+  --gray-color: rgba(240, 240, 240, 0.6);
+  --background-color: #101010;
+}
+
+body {
+  padding: 2vw 3vw;
+  font-family: "Unbounded", sans-serif;
+  font-weight: 400;
+  background-repeat: no-repeat;;
+  background-color: rgb(0, 0, 0, 100%);
+  color: white;
+}
+
+  html {
+  cursor: url("./kursor.png") 40 45, auto;
+
+}
+
+
+.row {display: inline-block;}
+
+
+ a{
+  text-decoration: none;
+  color: var(--text-color);
+  cursor: url("./kursor2.png") 40 45, auto;}
+
+.name {
+  font-size: 6.778vw;
+  line-height: 100%;
+  text-align: center; 
+  height: 200px;
+  padding: 1vw 3vw;}
+  
+  .skills__title {
+    color: #3A3A3A;
+    font-family: Unbounded;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+    text-align: left;
+
+}
+
+.row {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+
+.col {color: #FFF;
+   font-family: Unbounded;
+   font-size: 15px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 140%;
+   width: 25%;
+
+}
+
+.list-clear {
+   padding: 0 ;
+   margin: 0;
+   list-style: none;
+}
+
+
+.mol{color: #FFF;
+   font-family: Unbounded;
+   font-size: 15px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 140%;
+   padding: 0px 607px 36px 537px;
+}
+
+
+
+.dol{color: #FFF;
+   font-family: Unbounded;
+   font-size: 15px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 140%;
+   padding: 0px 290px 0px 778px;
+}
+
+   .tol{color: #FFF;
+   font-family: Unbounded;
+   font-size: 15px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 140%;
+   padding: 0px 0px 0px 1095px;
+}
+
+
+
+
+   .ic1 {
+    height: 30px;
+    margin: 0px 0px 0px 25px;
+   }
+
+   .ic2 {
+    height: 30px;
+    margin: 25px 0px 0px 25px;
+}
+
+   .ic3 {
+    height: 30px;
+    margin: 25px 0px 0px 25px;
+}
+
