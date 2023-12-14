@@ -1,2 +1,2 @@
 # PolinaBodnar.github.io
-Сайт визитка
+Сайт визитка HTML + CSS
